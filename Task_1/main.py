@@ -1,6 +1,6 @@
 import time
 from datetime import datetime
-from prettytable import PrettyTable
+
 import psutil
 import os
 import sys
