@@ -1,1 +1,5 @@
-Для запуска программы необходимо указать путь для .exe файла программы(например для wim.exe из проекта) и указать интервал
+Для запуска программы необходимо указать путь для .exe или .so файла программы(например для wim.exe из проекта для Windows) и указать интервал
+.exe и .so для запуска находятся в директории Start_app.
+
+To start the program, you must specify the path for .exe or .so of the program file(for example for win.exe from the Windows project) and specify the interval
+..exe and .so to run are located in the Start_app directory.
