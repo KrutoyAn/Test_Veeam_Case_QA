@@ -1,0 +1,347 @@
+Date: 05/13/22 14:08:47
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:08:49
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:08:50
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:08:52
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:08:53
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:08:55
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:08:56
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:08:58
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:08:59
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:09:01
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:09:02
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:09:04
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:09:06
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:09:07
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:09:09
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:09:10
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:09:12
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:09:13
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:09:15
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:09:16
+CPU: 0.0 %
+Working Set: 4648960
+Private Bytes: 1044480
+handle: 68
+----------
+Date: 05/13/22 14:09:18
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:19
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:21
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:22
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:24
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:25
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:27
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:28
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:30
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:31
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:33
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:34
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:36
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:37
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:39
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:40
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:42
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:43
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:45
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:46
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:48
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:49
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:51
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:53
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:54
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:56
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:57
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:09:59
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------
+Date: 05/13/22 14:10:00
+CPU: 0.0 %
+Working Set: 4657152
+Private Bytes: 1048576
+handle: 69
+----------Date: 05/13/22 14:12:18
+CPU: 0.0 %
+Working Set: 4579328
+Private Bytes: 1048576
+handle: 63
+----------
+Date: 05/13/22 14:12:18
+CPU: 0.0 %
+Working Set: 4661248
+Private Bytes: 1048576
+handle: 68
+----------
+Date: 05/13/22 14:12:19
+CPU: 0.0 %
+Working Set: 4661248
+Private Bytes: 1048576
+handle: 68
+----------
+Date: 05/13/22 14:12:19
+CPU: 0.0 %
+Working Set: 4661248
+Private Bytes: 1048576
+handle: 68
+----------
+Date: 05/13/22 14:12:20
+CPU: 0.0 %
+Working Set: 4661248
+Private Bytes: 1048576
+handle: 68
+----------
+Date: 05/13/22 14:12:20
+CPU: 0.0 %
+Working Set: 4661248
+Private Bytes: 1048576
+handle: 68
+----------
+Date: 05/13/22 14:12:21
+CPU: 0.0 %
+Working Set: 4661248
+Private Bytes: 1048576
+handle: 68
+----------
+Date: 05/13/22 14:12:21
+CPU: 0.0 %
+Working Set: 4661248
+Private Bytes: 1048576
+handle: 68
+----------
+Date: 05/13/22 14:12:22
+CPU: 0.0 %
+Working Set: 4661248
+Private Bytes: 1048576
+handle: 68
+----------
