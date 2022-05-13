@@ -46,3 +46,117 @@ Working Set: 4673536
 Private Bytes: 1048576
 handle: 68
 ----------
+Date: 05/13/22 15:30:38
+CPU: 0.0 %
+Working Set: 3284992
+Private Bytes: 589824
+handle: 36
+----------
+Date: 05/13/22 15:30:44
+CPU: 0.0 %
+Working Set: 4997120
+Private Bytes: 1036288
+handle: 71
+----------
+Date: 05/13/22 15:32:06
+CPU: 0.0 %
+Working Set: 5001216
+Private Bytes: 1032192
+handle: 72
+----------
+Date: 05/13/22 15:32:11
+CPU: 0.0 %
+Working Set: 5001216
+Private Bytes: 1032192
+handle: 72
+----------
+Date: 05/13/22 15:32:52
+CPU: 0.0 %
+Working Set: 14716928
+Private Bytes: 6467584
+handle: 173
+----------
+Date: 05/13/22 15:32:58
+CPU: 0.0 %
+Working Set: 14716928
+Private Bytes: 6467584
+handle: 173
+----------
+Date: 05/13/22 15:33:03
+CPU: 0.0 %
+Working Set: 14716928
+Private Bytes: 6467584
+handle: 173
+----------
+Date: 05/13/22 15:33:09
+CPU: 0.0 %
+Working Set: 14626816
+Private Bytes: 6246400
+handle: 174
+----------
+Date: 05/13/22 15:34:45
+CPU: 0.0 %
+Working Set: 17125376
+Private Bytes: 2949120
+handle: 289
+----------
+Date: 05/13/22 15:34:51
+CPU: 0.0 %
+Working Set: 17367040
+Private Bytes: 2920448
+handle: 291
+----------
+Date: 05/13/22 15:34:57
+CPU: 0.0 %
+Working Set: 17367040
+Private Bytes: 2920448
+handle: 291
+----------
+Date: 05/13/22 15:35:02
+CPU: 0.0 %
+Working Set: 17367040
+Private Bytes: 2920448
+handle: 291
+----------
+Date: 05/13/22 15:35:08
+CPU: 0.0 %
+Working Set: 17367040
+Private Bytes: 2920448
+handle: 291
+----------
+Date: 05/13/22 15:35:13
+CPU: 0.0 %
+Working Set: 17367040
+Private Bytes: 2920448
+handle: 291
+----------
+Date: 05/13/22 15:35:19
+CPU: 0.0 %
+Working Set: 14245888
+Private Bytes: 2633728
+handle: 265
+----------
+Date: 05/13/22 15:36:36
+CPU: 0.0 %
+Working Set: 17027072
+Private Bytes: 2830336
+handle: 289
+----------
+Date: 05/13/22 15:36:41
+CPU: 0.0 %
+Working Set: 17276928
+Private Bytes: 2813952
+handle: 291
+----------
+Date: 05/13/22 15:36:47
+CPU: 0.0 %
+Working Set: 17276928
+Private Bytes: 2813952
+handle: 291
+----------
+Date: 05/13/22 15:36:52
+CPU: 0.0 %
+Working Set: 17276928
+Private Bytes: 2813952
+handle: 291
+----------
