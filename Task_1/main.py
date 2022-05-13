@@ -13,6 +13,7 @@ delay = int(input('input delay: '))
 
 
 if platform == 'win32':
+
     os.startfile(path)
 
     process_name = path.split('\\')[-1]
@@ -34,7 +35,7 @@ if platform == 'win32':
                         f.write('\n')
 
                         print(f'Date: {current_time}')
-                        print(f'CPU: {i.cpu_percent(interval=0.5)} %')
+                        print(f'CPU: {i.cpu_percent(interval=0.0)} %')
                         print(f'Working Set: {i.memory_full_info()[4]}')
                         print(f'Private Bytes: {i.memory_full_info()[-2]}')
                         print(f'handle: {i.num_handles()}')
