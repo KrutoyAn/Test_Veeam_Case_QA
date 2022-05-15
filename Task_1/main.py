@@ -21,7 +21,7 @@ if platform == 'win32':
     try:
         for i in psutil.process_iter():
             if i.name() == process_name:
-                with open('E:\Pythonprojects\Test_Veeam_Case_QA\Task_1\log.txt', 'a') as f:
+                with open('Task_1\log.txt', 'a') as f:
                     while True:
                         now = datetime.now()
                         current_time = now.strftime("%x %H:%M:%S")
@@ -52,7 +52,7 @@ else:
     try:
         for i in psutil.process_iter():
             if i.name() == process_name:
-                with open('E:\Pythonprojects\Test_Veeam_Case_QA\Task_1\log.txt', 'a') as f:
+                with open('Task_1\log.txt', 'a') as f:
                     while True:
                         now = datetime.now()
                         current_time = now.strftime("%x %H:%M:%S")
